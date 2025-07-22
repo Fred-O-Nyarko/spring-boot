@@ -21,11 +21,6 @@ public class SoftwareEngineer {
     }
 
 
-    public SoftwareEngineer(Integer id, String name, String techStack) {
-        this.id = id;
-        this.name   = name;
-        this.techStack = techStack;
-    }
 
     public Integer getId() {
         return id;
